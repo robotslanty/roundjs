@@ -1,0 +1,20 @@
+{
+  "name": "roundjs",
+  "version": "1.0.0",
+  "description": "Small lib to deal with rounding numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robotslanty/roundjs.git"
+  },
+  "keywords": [],
+  "author": "Rob Johnson]",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/robotslanty/roundjs/issues"
+  },
+  "homepage": "https://github.com/robotslanty/roundjs#readme"
+}
